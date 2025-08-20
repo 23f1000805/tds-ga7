@@ -1,6 +1,4 @@
 # email: 23f1000805@ds.study.iitm.ac.in
-# email: 23f1000805@ds.study.iitm.ac.in
-# email: 23f1000805@ds.study.iitm.ac.in
 
 import marimo
 
